@@ -1,6 +1,6 @@
 {
   "name": "vimprove",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Vimprove \u2013 an interactive Vim trainer in your browser. Improve your Vim skill by doing!",
   "main": "src/index.ts",
   "scripts": {
